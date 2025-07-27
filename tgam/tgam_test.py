@@ -2,7 +2,7 @@ import time
 from datetime import datetime
 
 from TGAMpy.TGAMpy import TGAM
-import winsound
+# import winsound
 
 freq = 440
 dur = 1000
